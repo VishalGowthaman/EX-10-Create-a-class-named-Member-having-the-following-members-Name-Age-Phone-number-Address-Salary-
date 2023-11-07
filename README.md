@@ -1,6 +1,10 @@
 # EX-10 Create a class named 'Member' having the following members(Name;Age;Phone number;Address;Salary);
 # program
 ```
+Developed By : Vishal Gowthaman K R
+Reg No : 212221230123
+```
+```
 class Member {
     String name;
     int age;
